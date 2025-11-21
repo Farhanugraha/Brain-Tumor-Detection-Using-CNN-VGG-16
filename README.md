@@ -34,3 +34,10 @@ This project focuses on classifying brain tumor images using a Convolutional Neu
 
 📁 Model (.h5): [Download via Google Drive](https://drive.google.com/drive/folders/1K3h-mA1U6AwEDfntz002VYkFFU8sQT_R?usp=sharing)
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1zXcinLRx04fyxVmEj2BajoVQtteKBS0i?usp=sharing)
+
+
+
+<img width="523" height="297" alt="image" src="https://github.com/user-attachments/assets/e66c1316-f1ee-4a00-807e-d203725d54a9" />
+<img width="350" height="658" alt="image" src="https://github.com/user-attachments/assets/becff3c5-cba4-4f4c-bda7-a75b5469c299" />
+
+
