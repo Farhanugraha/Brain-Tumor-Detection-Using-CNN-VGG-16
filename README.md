@@ -37,7 +37,12 @@ This project focuses on classifying brain tumor images using a Convolutional Neu
 
 
 
-<img width="523" height="297" alt="image" src="https://github.com/user-attachments/assets/e66c1316-f1ee-4a00-807e-d203725d54a9" />
-<img width="350" height="658" alt="image" src="https://github.com/user-attachments/assets/becff3c5-cba4-4f4c-bda7-a75b5469c299" />
+<img width="523" height="297" alt="image" 
+     src="https://github.com/user-attachments/assets/e66c1316-f1ee-4a00-807e-d203725d54a9" 
+     style="margin-bottom: 20px;" />
+
+<img width="350" height="658" alt="image" 
+     src="https://github.com/user-attachments/assets/becff3c5-cba4-4f4c-bda7-a75b5469c299" />
+
 
 
